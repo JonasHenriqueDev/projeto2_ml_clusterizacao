@@ -1,4 +1,6 @@
 /resources/*
 !/resources/
+/out/*
+!/out/
 venv/
 .ipynb_checkpoints
